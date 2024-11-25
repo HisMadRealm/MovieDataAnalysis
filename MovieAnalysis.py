@@ -6,7 +6,7 @@ import os
 import ast
 
 # File path for the master dataset
-file_path = "/Users/rickglenn/Desktop/Movie Data Analysis/MovieData/master_movie_data.csv"
+file_path = "master_movie_data.csv"
 
 # Check if the file exists
 if not os.path.exists(file_path):
